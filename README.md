@@ -1,4 +1,4 @@
-# Frockly: Advanced Developer Enhancements
+# Frockly: Suggested improvements—fully developed
 
 A suite of suggested improvements—fully developed and integrated in a preliminary version—for [Frockly](https://github.com/RyuU12358/Frockly) by [@montesito](https://github.com/montesito), as a contribution to the original work by [@RyuU12358](https://github.com/RyuU12358).
 
