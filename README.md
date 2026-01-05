@@ -2,6 +2,8 @@
 
 A suite of suggested improvements—fully developed and integrated in a preliminary version—for [Frockly](https://github.com/RyuU12358/Frockly) by [@montesito](https://github.com/montesito), as a contribution to the original work by [@RyuU12358](https://github.com/RyuU12358).
 
+> **Note**: I’ve put together this documentation repository with GIFs showing these new features in action. If you're interested in the implementation details or the source code, I'd be more than happy to share them with you!
+
 This suite introduces a **modern, minimalist UX** designed to significantly facilitate the workflow for both users and developers. By simulating high-fidelity Excel behaviors and enabling **in-situ testing** for advanced capabilities—such as Excel-native exporting and intelligent LET/LAMBDA creation—these updates provide a robust and intuitive environment for professional formula engineering.
 
 All enhancements have been successfully implemented and validated on **macOS** through a custom-built desktop application developed specifically for this project.
