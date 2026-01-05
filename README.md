@@ -1,6 +1,6 @@
 # Frockly: Advanced Developer Enhancements
 
-A comprehensive suite of UI/UX improvements and functional feature expansions developed by [@montesito](https://github.com/montesito). Recognizing the development by [@RyuU12358](https://github.com/RyuU12358) in the [Frockly](https://github.com/RyuU12358/Frockly) project, these enhancements are intended as a collaborative contribution to further streamline the block-based formula development process, improve the interactivity of the cell grid, and provide robust tools for advanced Excel-compatible functions.
+Advanced UI and functional enhancements for [Frockly](https://github.com/RyuU12358/Frockly), developed by [@montesito](https://github.com/montesito) as a contribution to the original work by [@RyuU12358](https://github.com/RyuU12358). These updates streamline formula block editing, improve grid interactivity, and introduce robust tools for complex Excel functions.
 
 All features have been successfully implemented and validated on **macOS** (only).
 
