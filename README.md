@@ -82,4 +82,4 @@ Deep architectural fixes for complex logic handling.
 
 > 一矢(いっぴゃ)は折(お)れ易(やす)く、十矢(じゅうや)の束(たば)は折(お)れぬ
 
-Developed with precision for the Frockly community.
+Developed with passion as a humble contribution to the Frockly community.
