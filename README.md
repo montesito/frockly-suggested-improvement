@@ -19,7 +19,7 @@ Revised the application architecture to maximize workspace efficiency while main
 *   **Enhanced Discovery**: Strategic repositioning of the "From Formula" import feature for better workflow integration.
 *   **Flexible Layouts**: Implemented draggable dividers allowing users to manually resize the main panels (Grid vs. Editor) to suit their current task.
 
-![UI Overview](assets/UI_General_Overview.gif)
+![UI Overview](assets/images/UI_General_Overview.gif)
 
 
 ---
@@ -34,7 +34,7 @@ The cell grid has been overhauled to provide an experience closer to professiona
 *   **Performance Optimization**: Significant reduction in latency for grid updates and input rendering.
 *   **Formatted Formula View**: The formula bar now preserves and displays syntax-highlighted and indented formulas for better auditing.
 
-![Grid Interactivity](assets/Grid_Interactivity_and_Performance.gif)
+![Grid Interactivity](assets/images/Grid_Interactivity_and_Performance.gif)
 
 ---
 
@@ -48,7 +48,7 @@ Improvements to the block-based editing environment to facilitate rapid formula 
 *   **Active Block Tracking**: The UI now dynamically updates to show the formula representation of the *currently selected* block, rather than defaulting to the first block in the workspace.
 *   **Validation-Aware Insertion**: The "Insert" button now performs circular reference checks before pushing formulas from the editor to the grid.
 
-![Block Editor Workflow](assets/Block_Editor_Workflow.gif)
+![Block Editor Workflow](assets/images/Block_Editor_Workflow.gif)
 
 ---
 
@@ -63,7 +63,7 @@ Deep architectural fixes for complex logic handling.
 *   **Advanced In-Place Testing**: A new "Intelligent Test" mode identifies required parameters and opens a dedicated modal for selection.
 *   **Automated Parameter Injection**: Parameters are automatically formatted and passed to the LAMBDA function for testing within the app environment.
 
-![Advanced Formulas](assets/Advanced_Formulas_LET_LAMBDA.gif)
+![Advanced Formulas](assets/images/Advanced_Formulas_LET_LAMBDA.gif)
 
 ---
 
@@ -71,12 +71,13 @@ Deep architectural fixes for complex logic handling.
 *   **Professional Exporting**: Added "Export as Excel" functionality that generates native `.XLSX` files.
 *   **Locale Independence**: Automatically handles system-specific formula separators (e.g., `,` vs `;`) ensuring the generated files evaluate correctly in any regional Excel installation.
 
-![Excel Export](assets/Excel_Export_Interoperability.gif)
+![Excel Export](assets/images/Excel_Export_Interoperability.gif)
 
 ---
 
 ## 📁 Repository Structure
-*   `/assets`: Contains detailed walkthrough GIFs for each of the features mentioned above.
+*   `/assets/images`: Walkthrough GIF animations for visual feature demonstrations.
+*   `/assets/videos`: Native high-quality MP4 walkthroughs for each feature.
 
 ---
 
