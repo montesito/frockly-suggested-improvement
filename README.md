@@ -17,7 +17,9 @@ Revised the application architecture to maximize workspace efficiency while main
 *   **Enhanced Discovery**: Strategic repositioning of the "From Formula" import feature for better workflow integration.
 *   **Flexible Layouts**: Implemented draggable dividers allowing users to manually resize the main panels (Grid vs. Editor) to suit their current task.
 
-<video src="Videos/UI_General_Overview-converted.mp4" width="100%" controls></video>
+
+![UI Overview](Videos/UI_General_Overview-converted.mp4)
+
 
 ---
 
