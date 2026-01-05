@@ -77,8 +77,6 @@ Deep architectural fixes for complex logic handling.
 
 ## 📁 Repository Structure
 *   `/assets`: Contains detailed walkthrough GIFs for each of the features mentioned above.
-*   `/src`: Core application logic and block definitions.
-*   `/public`: Static assets and branding.
 
 ---
 
