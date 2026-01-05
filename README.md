@@ -4,7 +4,7 @@ A suite of suggested improvements—fully developed and integrated in a prelimin
 
 This suite introduces a **modern, minimalist UX** designed to significantly facilitate the workflow for both users and developers. By simulating high-fidelity Excel behaviors and enabling **in-situ testing** for advanced capabilities—such as Excel-native exporting and intelligent LET/LAMBDA creation—these updates provide a robust and intuitive environment for professional formula engineering.
 
-All features have been successfully implemented and validated on **macOS** (only).
+All enhancements have been successfully implemented and validated on **macOS** through a custom-built desktop application developed specifically for this project.
 
 ---
 
